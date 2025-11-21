@@ -1,0 +1,1 @@
+With this mini project, i hope to showcase my inital HTML skills that i have learned through the TOP course. This is only meant to be a minimal thing to practice the basics. It utilises the concept of recipes and creating links and so on.
